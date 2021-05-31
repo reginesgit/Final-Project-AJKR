@@ -1,2 +1,2 @@
 # Final-Project-AJKR
-Final Bootcamp Project - Using Machine Learning to Analyze Fake News
+Final Bootcamp Project - Using Machine Learning to Analyze Likelihood of Suffering a Heart Attack
